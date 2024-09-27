@@ -9,3 +9,5 @@
 9. git push origin master
 10. git remote set-url origin "url"
 11. git clone "url"
+
+********************END OF THE DAY***********************
